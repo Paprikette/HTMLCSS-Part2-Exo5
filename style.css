@@ -1,0 +1,31 @@
+h1 {
+margin-left: 550px;
+}
+form {
+  margin: 0 auto;
+  width: 300px;
+  padding: 1em;
+  border: 1px solid #BC8F8F;
+  border-radius: 0.5em;
+  background-color: #BC8F8F;
+  box-shadow: 5px 5px black;
+}
+ button {
+   margin-top: 15px;
+ }
+.prénom {
+  margin-top: 10px;
+}
+.adresse {
+  margin-top: 10px;
+}
+.téléphone {
+  margin-top: 10px;
+}
+.mdp {
+  margin-top: 10px;
+}
+input {
+  color: grey;
+  display: block;
+}
